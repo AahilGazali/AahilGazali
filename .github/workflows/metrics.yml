@@ -26,3 +26,11 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_details: percentage
           config_timezone: Asia/Kolkata
+          extras_css: |
+            body { background-color: #0D1117 !important; color: #E6EDF3 !important; }
+            h2, h3, .large, a { color: #FFB000 !important; }
+            a { text-decoration: none !important; }
+            svg, .octicon, .icon { color: #FFB000 !important; fill: #FFB000 !important; }
+            .progress, .Progress { background-color: #21262D !important; }
+            .progress-item, .Progress-item { background-color: #FFB000 !important; }
+            .border, .Box, .boxed-group { border-color: #FFB000 !important; }
