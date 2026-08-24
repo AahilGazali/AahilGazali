@@ -150,10 +150,7 @@ OPEN_TO   : Full Stack Developer roles
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AahilGazali&show_icons=true&hide_border=true&title_color=FFB000&icon_color=FFB000&text_color=E6EDF3&bg_color=0D1117&cache_seconds=86400" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=AahilGazali&hide_border=true&background=0D1117&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&stroke=FFB000&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=E6EDF3&dates=E6EDF3" width="48%"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AahilGazali&layout=compact&hide_border=true&title_color=FFB000&text_color=E6EDF3&bg_color=0D1117&cache_seconds=86400" width="48%"/>
+<img src="https://raw.githubusercontent.com/AahilGazali/AahilGazali/main/metrics.svg" width="100%"/>
 
 </div>
 
